@@ -1,0 +1,6 @@
+name: Spells
+version: 0.1
+api-version: 1.16
+main: de.strawberry.spells.main.Main
+authors: [rexituz]
+description: Spells in Minecraft
